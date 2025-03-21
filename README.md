@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @sanskaragrahari
-- 👀 I’m interested in Coding Things
-- 🌱 I’m currently learning Data Scientist
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me linkdein-www.linkedin.com/in/sanskar-agrahari-141a18254
-- 😄 Pronouns: sam
-- ⚡ Fun fact: A fun fact about data science is that 90% of the world's data has been generated in just the last two years! This rapid data growth is largely driven by social media, e-commerce, and IoT devices. This means data scientists are working with massive, ever-growing datasets, making it an exciting and constantly evolving field.
+👋 Hi, I’m Sanskar Agrahari
+🔍 Aspiring Data Analyst with proficiency in Python, SQL, Power BI, and Tableau
+📊 Focused on data-driven decision-making, exploratory data analysis, and business intelligence
+📖 Currently expanding expertise in Data Science and Machine Learning
+🤝 Interested in collaborating on analytical projects, industry case studies, and real-world problem-solving
+📩 Connect with me on LinkedIn
+⚡ Insight: The exponential rise in data generation underscores the growing need for advanced analytical capabilities to extract meaningful insights and optimize strategic outcomes.
 
 <!---
 sanskaragrahari/sanskaragrahari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
